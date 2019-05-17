@@ -1,5 +1,4 @@
 {
-  "version": "0.10.0",
   "name": "spraypaint",
   "description": "Graphiti Client / Javascript ORM",
   "main": "lib/index.js",
